@@ -2,6 +2,9 @@
 
 
 using Bogus;
+using System.Text.Encodings.Web;
+using System.Text.Json;
+using System.Text.Unicode;
 
 var address = new Faker<Address>("tr")
     .RuleFor(x => x.City, x => x.Address.City())
@@ -21,7 +24,15 @@ var user = new Faker<User>("tr")
 
 var genereateObject = user.Generate(5);
 
-Console.WriteLine("Hello, World!");
+var opt = new JsonSerializerOptions()
+{
+    WriteIndented = true,               //jsonun aynısını yazdıracağımız için true verdik
+    Encoder= JavaScriptEncoder.Create(UnicodeRanges.All)
+};
+
+string valueAsJson=JsonSerializer.Serialize(genereateObject,opt);
+
+Console.WriteLine(valueAsJson);
 
 
 public class Address
