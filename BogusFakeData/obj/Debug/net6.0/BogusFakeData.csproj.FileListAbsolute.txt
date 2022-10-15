@@ -1,0 +1,17 @@
+D:\##C#_calisma\####TechBudy\BogusFakeData\BogusFakeData\bin\Debug\net6.0\BogusFakeData.exe
+D:\##C#_calisma\####TechBudy\BogusFakeData\BogusFakeData\bin\Debug\net6.0\BogusFakeData.deps.json
+D:\##C#_calisma\####TechBudy\BogusFakeData\BogusFakeData\bin\Debug\net6.0\BogusFakeData.runtimeconfig.json
+D:\##C#_calisma\####TechBudy\BogusFakeData\BogusFakeData\bin\Debug\net6.0\BogusFakeData.dll
+D:\##C#_calisma\####TechBudy\BogusFakeData\BogusFakeData\bin\Debug\net6.0\BogusFakeData.pdb
+D:\##C#_calisma\####TechBudy\BogusFakeData\BogusFakeData\bin\Debug\net6.0\Bogus.dll
+D:\##C#_calisma\####TechBudy\BogusFakeData\BogusFakeData\obj\Debug\net6.0\BogusFakeData.csproj.AssemblyReference.cache
+D:\##C#_calisma\####TechBudy\BogusFakeData\BogusFakeData\obj\Debug\net6.0\BogusFakeData.GeneratedMSBuildEditorConfig.editorconfig
+D:\##C#_calisma\####TechBudy\BogusFakeData\BogusFakeData\obj\Debug\net6.0\BogusFakeData.AssemblyInfoInputs.cache
+D:\##C#_calisma\####TechBudy\BogusFakeData\BogusFakeData\obj\Debug\net6.0\BogusFakeData.AssemblyInfo.cs
+D:\##C#_calisma\####TechBudy\BogusFakeData\BogusFakeData\obj\Debug\net6.0\BogusFakeData.csproj.CoreCompileInputs.cache
+D:\##C#_calisma\####TechBudy\BogusFakeData\BogusFakeData\obj\Debug\net6.0\BogusFakeData.csproj.CopyComplete
+D:\##C#_calisma\####TechBudy\BogusFakeData\BogusFakeData\obj\Debug\net6.0\BogusFakeData.dll
+D:\##C#_calisma\####TechBudy\BogusFakeData\BogusFakeData\obj\Debug\net6.0\refint\BogusFakeData.dll
+D:\##C#_calisma\####TechBudy\BogusFakeData\BogusFakeData\obj\Debug\net6.0\BogusFakeData.pdb
+D:\##C#_calisma\####TechBudy\BogusFakeData\BogusFakeData\obj\Debug\net6.0\BogusFakeData.genruntimeconfig.cache
+D:\##C#_calisma\####TechBudy\BogusFakeData\BogusFakeData\obj\Debug\net6.0\ref\BogusFakeData.dll
